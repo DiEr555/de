@@ -15,4 +15,5 @@ public class User {
 		this.password = password;
 	}
 	private String password;
+	private String username;
 }
